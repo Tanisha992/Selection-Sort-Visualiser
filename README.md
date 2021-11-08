@@ -1,6 +1,6 @@
 # Selection-Sort-Visualiser
 A visualization of the most common used sorting algorithm.
-The human brain can easily process visuals in spite of long codes to understand the algorithms. In this article, Bubble sort visualization has been implemented using graphics.h library. As we all know that bubble sort swaps the adjacent elements if they are unsorted and finally the larger one being shifted towards to the end of array in each pass. Sometimes, it becomes difficult to analyze the data manually, but after plotting graphically it is much easier to understand as shown in the figure below.
+The human brain can easily process visuals in spite of long codes to understand the algorithms. In this article, Selection sort visualization has been implemented using graphics.h library. As we all know that bubble sort swaps the adjacent elements if they are unsorted and finally the larger one being shifted towards to the end of array in each pass. Sometimes, it becomes difficult to analyze the data manually, but after plotting graphically it is much easier to understand as shown in the figure below.
 ![alt text](https://media.geeksforgeeks.org/wp-content/cdn-uploads/gq/2014/02/bubble-sort1.png)
 ## Approach:
 
